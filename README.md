@@ -11,7 +11,6 @@ Usage:
    `./mullvad_lowest_latency.sh [COUNTRY_CODE]`
    
 Examples:
-   `./mullvad_lowest_latency.sh         # lists all servers' average latencies`
-   
-   `./mullvad_lowest_latency.sh au      # only for Australia`
+`./mullvad_lowest_latency.sh         # lists all servers' average latencies`   
+`./mullvad_lowest_latency.sh au      # only for Australia`
    
