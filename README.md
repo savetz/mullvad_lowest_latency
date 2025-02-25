@@ -9,6 +9,9 @@ shellscript to ping mullvad VPN servers to find ones with lowest latency
 
 Usage:
    `./mullvad_lowest_latency.sh [COUNTRY_CODE]`
-Example:
+   
+Examples:
    `./mullvad_lowest_latency.sh         # lists all servers' average latencies`
+   
    `./mullvad_lowest_latency.sh au      # only for Australia`
+   
