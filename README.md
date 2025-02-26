@@ -17,7 +17,7 @@ Examples:
    
 Sample output:
 
-`
+```
 # mullvad-exclude ./mullvad_lowest_latency.sh us | head
 Avg Latency (ms) | Server Name       | IP Address
 -------------------------------------------------
@@ -29,4 +29,4 @@ Avg Latency (ms) | Server Name       | IP Address
 22.29             us-qas-wg-101        185.156.46.130
 22.36             us-qas-wg-002        198.54.135.66
 23.09             us-chi-wg-303        68.235.46.64
-`
+```
