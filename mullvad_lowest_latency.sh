@@ -18,7 +18,7 @@
 ########################################
 # User configuration
 ########################################
-PING_COUNT=3  # Number of pings to send
+PING_COUNT=1  # Number of pings to send. >1 really slows it down
 PING_TIMEOUT=2  # Seconds to wait for each ping response
 
 COUNTRY_FILTER="$1"
